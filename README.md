@@ -14,6 +14,6 @@ The application source lives separately and is not published here. This reposito
 
 ## Related links
 
-- [Live website](https://ansarbuilds.dev/haloscript-site/)
+- [Live website](https://ansarbuilds.github.io/haloscript-site/)
 - [Haloscript on the App Store](https://apps.apple.com/ca/app/haloscript/id6820670080)
-- [Mohamed Ansar on GitHub](https://github.com/kmsmohamedansar)
+- [Mohamed Ansar on GitHub](https://github.com/ansarbuilds)
